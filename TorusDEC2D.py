@@ -1,8 +1,4 @@
-#provo a ricreare l'ambiete che ha fatto Chern, in cui esistevano operatori
-
 import numpy as np
-
-
 class TorusDEC2D:
     """
     Discrete Exterior Calculus on a 3D periodic grid (torus).
